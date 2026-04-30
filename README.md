@@ -15,7 +15,7 @@ I work on projects where models are not just trained, but actually integrated in
 
 ---
 
-## Som Projects
+## Some Projects
 
 ### EduShield
 ML system to identify at-risk students using structured data and NLP features.  
@@ -40,6 +40,14 @@ Built secure backend with role-based access and scalable architecture.
 ### AirGlyph AI
 Gesture-controlled air drawing system using computer vision and CNNs.  
 Supports multi-stroke recognition and real-time symbol detection.
+
+### TapKaro  
+Cross-platform digital wallet application supporting peer-to-peer payments, QR-based transactions, and utility services with real-time processing.  
+Built a secure backend using Node.js and Supabase for authentication and financial data management, including voice-based payment features.  
+
+### AI Resume Analyzer  
+AI-powered resume evaluation system that simulates ATS scoring using NLP and heuristic analysis to assess skills, projects, experience, and resume quality.  
+Supports multi-resume comparison, skill gap detection, industry benchmarking, and career recommendations via a Streamlit dashboard.  
 
 ---
 
