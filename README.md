@@ -72,9 +72,9 @@ MongoDB, PostgreSQL, Docker, Git
 
 ## Current Focus
 
-- Improving system design for ML-powered applications  
-- Exploring computer vision and NLP pipelines  
-- Building systems that combine ML + product + backend properly  
+- Building end-to-end systems that integrate backend, data, and user-facing components  
+- Improving system design, scalability, and API architecture  
+- Exploring practical applications across ML, full-stack, and real-time systems
 
 ---
 
