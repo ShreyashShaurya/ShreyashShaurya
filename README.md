@@ -233,6 +233,7 @@ I'm always interested in discussing:
 
 📧 **Email:** shreyashshaurya8@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/shreyash-shaurya-b17463407](https://www.linkedin.com/in/shreyash-shaurya-b17463407/)  
+🌐 **Portfolio:** [shreyashshaurya.github.io](https://shreyashshaurya.github.io)
 
 ---
 
