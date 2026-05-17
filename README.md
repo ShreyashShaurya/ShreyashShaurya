@@ -39,7 +39,7 @@ ML system identifying at-risk students using 32K+ structured records and NLP sen
 
 **Tech:** XGBoost · SHAP · spaCy · Streamlit · SQLite
 
-🔗 [GitHub](https://github.com/ShreyashShaurya/EduShield-Droupout-Prediction)
+🔗 [GitHub](https://github.com/ShreyashShaurya/EduShield-Dropout-Prediction)
 
 ---
 
