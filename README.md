@@ -1,84 +1,251 @@
 # Shreyash Shaurya
 
-Pre-final-year Computer Science undergraduate building end-to-end systems across machine learning, backend, and full-stack applications.
+**CS Student & Systems Builder** | BMS College of Engineering, Bengaluru
 
-I work on projects where models are not just trained, but actually integrated into usable systems with proper APIs, pipelines, and interfaces.
-
----
-
-## What I Work On
-
-- Machine Learning systems with a focus on real-world deployment
-- Backend engineering with REST APIs and modular architectures
-- Full-stack applications with real-time features
-- Applied AI across healthcare, education, finance, and civic tech
+I build end-to-end systems where code meets impact. Focused on machine learning, backend APIs, and full-stack applications that solve real problems.
 
 ---
 
-## Some Projects
+## 🎯 What I Build
 
-### AlphaLens AI
-AI-driven trading research platform for NSE stocks using ML-based signal generation and backtesting.  
-Designed modular pipelines for data ingestion, feature engineering, and explainable insights with strong risk-adjusted performance.
-
-### EduShield
-Machine learning system for identifying at-risk students using structured data and NLP-based feature engineering.  
-Engineered data pipelines on 32K+ records, trained XGBoost with SHAP explainability, and deployed a dashboard for risk profiling and intervention mapping.
-
-### ClinicalTriage AI
-Healthcare prediction system for fetal health classification using supervised machine learning models.  
-Optimized models for high recall in critical cases, handled class imbalance, and deployed a dashboard with confidence-based filtering.
-
-### CivicSense
-Civic complaint classification and hotspot detection system using NLP-based similarity modeling.  
-Built a Dockerized FastAPI backend with REST endpoints for complaint processing, classification, and location-based risk aggregation.
-
-### AI Resume Analyzer
-AI-powered resume evaluation system simulating ATS scoring using NLP and heuristic-based analysis.  
-Implemented skill extraction, resume scoring, multi-resume comparison, and career recommendations via a Streamlit dashboard.
-
-### College Connect
-Full-stack college social platform with modules including forums, marketplace, carpooling, and real-time chat.  
-Developed a scalable backend with JWT authentication, role-based access control, and WebSocket-based real-time communication.
-
-### AirGlyph AI
-Gesture-controlled air drawing system using computer vision and CNN-based symbol recognition.  
-Implemented hand tracking, multi-gesture support, and multi-stroke reconstruction using contour analysis for real-time input.
-
-### TapKaro
-Cross-platform digital wallet application supporting peer-to-peer payments, QR-based transactions, and utility services.  
-Built a secure backend using Node.js and Supabase for authentication, transaction handling, and real-time payment processing.
+- **ML Systems** — Models trained, deployed, and integrated into usable systems with proper APIs
+- **Backend Engineering** — Scalable REST APIs, real-time backends, and modular architectures  
+- **Full-Stack Applications** — Complete web & mobile solutions with databases and real-time features
+- **Applied AI** — ML solutions across healthcare, education, finance, and civic tech
 
 ---
 
-## Tech Stack
+## 📊 Featured Projects
 
-**Languages**  
-Python, C++, C, Java, Dart  
+### 🚀 **AlphaLens AI**  
+**AI-Driven Trading Research Platform**
 
-**Backend & APIs**  
-Node.js, Express.js, FastAPI, REST APIs  
+ML-powered trading platform analyzing 15 NSE stocks with GradientBoosting signal generation. Built 6 modular agents for data ingestion, feature engineering, backtesting, and explainable AI insights.
 
-**Frontend & Mobile**  
-React, HTML, CSS, JavaScript, Flutter  
+**Results:** 223% backtested returns vs 5% benchmark over 2 years | Sharpe ratio optimized with Half-Kelly position sizing
 
-**ML & Data**  
-Scikit-learn, XGBoost, TensorFlow, SHAP, spaCy  
+**Tech:** Python · FastAPI · React · Scikit-learn · TailwindCSS
 
-**Tools**  
-MongoDB, PostgreSQL, Docker, Git  
+🔗 [GitHub](https://github.com/ShreyashShaurya/AlphaLens-AI)
 
 ---
 
-## Current Focus
+### 📚 **EduShield**  
+**Student Risk Prediction & Early Intervention System**
 
-- Building end-to-end systems that integrate backend, data, and user-facing components  
-- Improving system design, scalability, and API architecture  
-- Exploring practical applications across ML, full-stack, and real-time systems
+ML system identifying at-risk students using 32K+ structured records and NLP sentiment analysis. Trained XGBoost achieving 0.95 ROC-AUC, deployed Streamlit dashboard mapping 5 risk profiles to targeted interventions.
+
+**Results:** 95% model ROC-AUC · 5 intervention pathways · Real-time student risk monitoring
+
+**Tech:** XGBoost · SHAP · spaCy · Streamlit · SQLite
+
+🔗 [GitHub](https://github.com/ShreyashShaurya/EduShield-Droupout-Predictor)
 
 ---
 
-## Links 
-- LinkedIn: https://www.linkedin.com/in/shreyash-shaurya-b17463407/
+### ⚕️ **ClinicalTriage AI**  
+**Fetal Health Classification System**
+
+Healthcare ML system classifying fetal health using cardiotocography (CTG) records. XGBoost model with SMOTE balancing, achieving 94% accuracy and 0.91 pathological recall. Deployed with confidence-based filtering for human review.
+
+**Results:** 94% accuracy · 0.91 pathological recall · Confidence-filtered predictions
+
+**Tech:** XGBoost · Scikit-learn · SMOTE · Streamlit · Python
+
+🔗 [GitHub](https://github.com/ShreyashShaurya/Clinical-Triage-AI)
 
 ---
+
+### 🤝 **College Connect**  
+**Full-Stack College Social Platform**
+
+Complete college social platform with forums, marketplace, carpooling, and real-time chat. Built with JWT auth, 3-tier role-based access, Socket.IO WebSockets, and college-scoped data isolation.
+
+**Features:** 6+ modules · Real-time messaging · Friends-first feed · Global blocking · File uploads
+
+**Tech:** Node.js · Express.js · MongoDB · Socket.IO · JWT Auth
+
+🔗 [GitHub](https://github.com/ShreyashShaurya/College-Connect)
+
+---
+
+### 🏛️ **CivicSense**  
+**Complaint Classification & Hotspot Detection System**
+
+GenAI-inspired civic complaint classifier using TF-IDF + cosine similarity. Dockerized FastAPI backend with 5 REST endpoints for processing, classification, and location-based hotspot aggregation with 3 risk levels.
+
+**Features:** Complaint classification · Location-based hotspots · Risk aggregation · Explainable reasoning
+
+**Tech:** FastAPI · Scikit-learn · Docker · NLP · Python
+
+🔗 [GitHub](https://github.com/ShreyashShaurya/CivicSense-smart-city-genai)
+
+---
+
+### ✋ **AirGlyph AI**  
+**Gesture-Controlled Air Drawing with Computer Vision**
+
+Real-time gesture recognition system for air-drawn sketches. CNN-based symbol recognition with hand tracking, multi-gesture support, and multi-stroke reconstruction using contour analysis.
+
+**Features:** Hand tracking · Multi-gesture support · Real-time symbol recognition · Multi-stroke reconstruction
+
+**Tech:** OpenCV · CNN · Python · Computer Vision
+
+🔗 [GitHub](https://github.com/ShreyashShaurya/AirGlyph_AI)
+
+---
+
+### 💳 **TapKaro**  
+**Cross-Platform Digital Wallet Application**
+
+Flutter-based mobile wallet supporting P2P payments, QR transactions, and utility services. Secure Node.js backend with Supabase auth, real-time transaction handling, and payment processing.
+
+**Features:** P2P payments · QR-based transactions · Utility bill payments · Real-time updates
+
+**Tech:** Flutter · Dart · Node.js · Supabase · Payment APIs
+
+🔗 [GitHub](https://github.com/ShreyashShaurya/TapKaro)
+
+---
+
+### 🎓 **AI Resume Analyzer**  
+**ATS Scoring & Career Insights Dashboard**
+
+AI-powered resume evaluation system simulating recruiter ATS scoring. Skill extraction via spaCy NLP, multi-resume comparison, ATS compatibility scoring, and career path recommendations.
+
+**Features:** ATS scoring (0-100) · Skill extraction · Gap analysis · Benchmark comparison · Career recommendations
+
+**Tech:** Streamlit · spaCy · PyPDF · Matplotlib · Python
+
+🔗 [GitHub](https://github.com/ShreyashShaurya/AI-Resume-Analyzer)
+
+---
+
+### 🔬 **PayShield**  
+**Pre-Transaction UPI Fraud Detection System**
+
+Cybersecurity system detecting UPI scam progression before payment execution. Hybrid approach combining rule-based signal detection, stage-based progression tracking, ML scam probability, and explainable risk scoring.
+
+**Architecture:** Signal detection engine · Stage classification · State machine tracking · Risk engine · ML layer (TF-IDF + Logistic Regression) · Session-aware context
+
+**Features:** Real-time scam detection · Explainable risk insights · Session persistence · Trusted beneficiary context · Multilingual foundation
+
+**Tech:** FastAPI · React · TypeScript · Scikit-learn · Docker
+
+🔗 [GitHub](https://github.com/ShreyashShaurya/PayShield)
+
+---
+
+### 🎬 **FrameLock**  
+**Surgical Video Motion Stabilization**
+
+Real-time video stabilization for minimally invasive surgical procedures. Geometric transformations eliminate hand tremors and camera drift. Features include Lucas-Kanade optical flow, Kalman filtering, and live web dashboard.
+
+**Architecture:** Feature detection · Optical flow tracking · Motion estimation · Kalman filtering · ROI detection · Geometric transformations
+
+**Features:** Real-time stabilization · Web dashboard · MJPEG streams · Live HUD · Motion analytics · Batch processing
+
+**Tech:** OpenCV · Python · Flask · React · NumPy
+
+🔗 [GitHub](https://github.com/ShreyashShaurya/FrameLock)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+```
+Python · C++ · C · Java · Dart · JavaScript
+```
+
+**Backend & APIs**
+```
+FastAPI · Node.js · Express.js · REST APIs · Socket.IO
+```
+
+**Frontend & Mobile**
+```
+React · Flutter · HTML · CSS · JavaScript · TailwindCSS
+```
+
+**Machine Learning & Data**
+```
+XGBoost · Scikit-learn · TensorFlow · SHAP · spaCy · Pandas · NumPy
+```
+
+**Data & Infrastructure**
+```
+PostgreSQL · MongoDB · SQLite · Docker · Git
+```
+
+**Tools & Frameworks**
+```
+Streamlit · Flask · Jupyter · OpenCV · PyPDF
+```
+
+---
+
+## 🎓 Education & Certifications
+
+**B.Tech in Computer Science & Engineering**  
+BMS College of Engineering, Bengaluru | Aug 2023 – June 2027  
+Pre-final year student
+
+**Certifications**
+- Nutanix Multicloud Infrastructure (2026)
+- Oracle AI Foundations Associate (2025)
+- Oracle Generative AI Professional (2025)
+- Infosys Front End Web Development (2025)
+
+---
+
+## 🎯 Focus Areas
+
+**Current** 
+- Building end-to-end systems integrating ML, backend, and frontend components
+- System design and scalability  
+- Real-time communication & APIs
+- Explainable AI in production systems
+
+**Exploring**
+- Advanced ML architectures and LLM applications
+- Distributed systems and microservices
+- Cloud-native development
+
+---
+
+## 📊 By The Numbers
+
+- **9+ Projects** spanning ML, backend, full-stack, and mobile
+- **4 Certifications** in AI, web dev, and cloud infrastructure  
+- **8 Major Technologies** across ML, backend, frontend, and data
+- **100% End-to-End** systems with integrated APIs and deployments
+
+---
+
+## 💬 Get In Touch
+
+I'm always interested in discussing:
+- Machine learning applications and system design
+- Backend architecture and API design
+- Full-stack development challenges
+- Building systems that matter
+
+📧 **Email:** shreyashshaurya8@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/shreyash-shaurya-b17463407](https://www.linkedin.com/in/shreyash-shaurya-b17463407/)  
+
+---
+
+## 🌟 Philosophy
+
+I don't just train models or write code in isolation. I build **complete systems** where:
+- Models are deployed, not just trained
+- APIs are designed with purpose
+- UX is thoughtful and intentional
+- Every piece serves the larger goal
+
+Each project reflects a commitment to understanding the full stack — from data pipelines to user interfaces.
+
+---
+
+**Built with code, curiosity, and coffee ☕**
